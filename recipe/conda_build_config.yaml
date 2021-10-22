@@ -1,5 +1,5 @@
 channel_targets:
-  - YOUR_ANACONDA_CHANNEL main
+  - ryanvolz main
 
 # pin to GNU Radio 3.8 for this branch
 gnuradio_core:
