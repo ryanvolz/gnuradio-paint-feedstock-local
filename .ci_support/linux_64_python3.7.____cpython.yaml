@@ -7,7 +7,7 @@ cdt_name:
 channel_sources:
 - conda-forge
 channel_targets:
-- YOUR_ANACONDA_CHANNEL main
+- ryanvolz main
 cxx_compiler:
 - gxx
 cxx_compiler_version:

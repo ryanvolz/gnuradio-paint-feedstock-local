@@ -3,7 +3,7 @@ c_compiler:
 channel_sources:
 - conda-forge
 channel_targets:
-- YOUR_ANACONDA_CHANNEL main
+- ryanvolz main
 cxx_compiler:
 - vs2017
 gnuradio_core:
